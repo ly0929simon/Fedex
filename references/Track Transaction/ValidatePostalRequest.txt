@@ -1,0 +1,47 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v4="http://fedex.com/ws/cnty/v4">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <v4:ValidatePostalRequest>
+          <v4:WebAuthenticationDetail>
+            <v4:UserCredential>
+               <v4:Key>Input Your Information</v4:Key>
+               <v4:Password>Input Your Information</v4:Password>
+            </v4:UserCredential>
+         </v4:WebAuthenticationDetail>
+         <v4:ClientDetail>
+            <v4:AccountNumber>Input Your Information</v4:AccountNumber>
+            <v4:MeterNumber>Input Your Information</v4:MeterNumber>
+            <v4:Region>US</v4:Region>
+            <v4:Localization>
+               <v4:LanguageCode>EN</v4:LanguageCode>
+               <v4:LocaleCode>US</v4:LocaleCode>
+            </v4:Localization>
+         </v4:ClientDetail>
+         <v4:TransactionDetail>
+            <v4:CustomerTransactionId>ValidatePostalRequest_Basic</v4:CustomerTransactionId>
+            <v4:Localization>
+               <v4:LanguageCode>EN</v4:LanguageCode>
+               <v4:LocaleCode>US</v4:LocaleCode>
+            </v4:Localization>
+         </v4:TransactionDetail>
+         <v4:Version>
+            <v4:ServiceId>cnty</v4:ServiceId>
+            <v4:Major>4</v4:Major>
+            <v4:Intermediate>0</v4:Intermediate>
+            <v4:Minor>0</v4:Minor>
+         </v4:Version>
+         <v4:ShipDateTime>2015-03-02T12:34:56-06:00</v4:ShipDateTime>
+         <v4:Address>
+            <v4:StreetLines>Input Your Information</v4:StreetLines>
+            <v4:City>Input Your Information</v4:City>
+            <v4:StateOrProvinceCode>TN</v4:StateOrProvinceCode>
+            <v4:PostalCode>38017</v4:PostalCode>
+            <v4:CountryCode>US</v4:CountryCode>
+            <v4:Residential>1</v4:Residential>
+         </v4:Address>
+         <v4:RoutingCode>FDSD</v4:RoutingCode>
+         <v4:CheckForMismatch>1</v4:CheckForMismatch>
+         <v4:CarrierCode>FDXE</v4:CarrierCode>
+      </v4:ValidatePostalRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,46 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v10="http://fedex.com/ws/track/v10">
+   <soapenv:Header> </soapenv:Header>
+   <soapenv:Body>
+      <v10:TrackRequest>
+         <v10:WebAuthenticationDetail>
+<v10:UserCredential>
+               <v10:Key>Input Your Information</v10:Key>
+               <v10:Password>Input Your Information</v10:Password>
+            </v10:UserCredential>
+         </v10:WebAuthenticationDetail>
+         <v10:ClientDetail>
+            <v10:AccountNumber>Input Your Information</v10:AccountNumber>
+            <v10:MeterNumber>Input Your Information</v10:MeterNumber>
+<v10:Localization>
+               <v10:LanguageCode>EN</v10:LanguageCode>
+               <v10:LocaleCode>us</v10:LocaleCode>
+            </v10:Localization>
+         </v10:ClientDetail>
+         <v10:TransactionDetail>
+            <v10:CustomerTransactionId>Track By Reference_v10</v10:CustomerTransactionId>
+</v10:TransactionDetail>
+         <v10:Version>
+            <v10:ServiceId>trck</v10:ServiceId>
+            <v10:Major>10</v10:Major>
+            <v10:Intermediate>1</v10:Intermediate>
+            <v10:Minor>0</v10:Minor>
+         </v10:Version>
+         <v10:SelectionDetails>
+            <v10:CarrierCode>FDXE</v10:CarrierCode>
+            <v10:OperatingCompany>Input Your Information</v10:OperatingCompany>
+            <v10:PackageIdentifier>
+               <v10:Type>SHIPPER_REFERENCE</v10:Type>
+               <v10:Value>Input Your Information</v10:Value>
+            </v10:PackageIdentifier>
+            <v10:ShipDateRangeBegin>2013-09-23</v10:ShipDateRangeBegin>
+            <v10:ShipDateRangeEnd>2013-09-24</v10:ShipDateRangeEnd>
+            <v10:ShipmentAccountNumber>Input Your Information</v10:ShipmentAccountNumber>
+            <v10:Destination>
+               <v10:PostalCode>95035</v10:PostalCode>
+               <v10:CountryCode>US</v10:CountryCode>
+            </v10:Destination>
+         </v10:SelectionDetails>
+         <v10:ProcessingOptions>INCLUDE_DETAILED_SCANS</v10:ProcessingOptions>
+      </v10:TrackRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

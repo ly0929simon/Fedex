@@ -1,0 +1,28 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<SOAP-ENV:Header/>
+<SOAP-ENV:Body>
+<SignatureProofOfDeliveryFaxReply xmlns="http://fedex.com/ws/track/v10">
+<HighestSeverity>SUCCESS</HighestSeverity>
+<Notifications>
+<Severity>SUCCESS</Severity>
+<Source>trck</Source>
+<Code>0</Code>
+<Message>Request was successfully processed</Message>
+<LocalizedMessage>Request was successfully processed</LocalizedMessage>
+</Notifications>
+<TransactionDetail>
+<CustomerTransactionId>SignatureProofOfDeliveryFaxRequest_v10</CustomerTransactionId>
+<Localization>
+<LanguageCode>EN</LanguageCode>
+<LocaleCode>EM</LocaleCode>
+</Localization>
+</TransactionDetail>
+<Version>
+<ServiceId>trck</ServiceId>
+<Major>10</Major>
+<Intermediate>0</Intermediate>
+<Minor>0</Minor>
+</Version>
+</SignatureProofOfDeliveryFaxReply>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

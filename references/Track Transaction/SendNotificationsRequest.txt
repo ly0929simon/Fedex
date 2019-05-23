@@ -1,0 +1,50 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v10="http://fedex.com/ws/track/v10">
+   <soapenv:Header/>
+   <soapenv:Body>
+          <v10:SendNotificationsRequest xmlns="http://fedex.com/ws/track/v9">
+          <v10:WebAuthenticationDetail>
+<v10:UserCredential>
+                <v10:Key>Input Your Information</v10:Key>
+                <v10:Password>Input Your Information</v10:Password>
+             </v10:UserCredential>
+          </v10:WebAuthenticationDetail>
+          <v10:ClientDetail>
+             <v10:AccountNumber>Input Your Information</v10:AccountNumber>
+             <v10:MeterNumber>Input Your Information</v10:MeterNumber>
+             <v10:Localization>
+                <v10:LanguageCode>EN</v10:LanguageCode>
+             </v10:Localization>
+          </v10:ClientDetail>
+          <v10:TransactionDetail>
+             <v10:CustomerTransactionId>SendNotificationsRequest_v9</v10:CustomerTransactionId>
+             <v10:Localization>
+                <v10:LanguageCode>EN</v10:LanguageCode>
+             </v10:Localization>
+          </v10:TransactionDetail>
+          <v10:Version>
+             <v10:ServiceId>trck</v10:ServiceId>
+             <v10:Major>10</v10:Major>
+             <v10:Intermediate>0</v10:Intermediate>
+             <v10:Minor>0 </v10:Minor>
+          </v10:Version>
+          <v10:TrackingNumber>Input Your Information</v10:TrackingNumber>
+          <v10:TrackingNumberUniqueId>Input Your Information</v10:TrackingNumberUniqueId>
+          <v10:ShipDateRangeBegin>2010-03-02</v10:ShipDateRangeBegin>
+          <v10:ShipDateRangeEnd>2012-04-12</v10:ShipDateRangeEnd>
+          <v10:SenderEMailAddress>Input Your Information</v10:SenderEMailAddress>
+          <v10:SenderContactName>Input Your Information</v10:SenderContactName>
+          <v10:NotificationDetail>
+             <v10:PersonalMessage>Message </v10:PersonalMessage>
+             <v10:Recipients>
+                <v10:EMailNotificationRecipientType>SHIPPER</v10:EMailNotificationRecipientType>
+                <v10:EMailAddress>Input Your Information</v10:EMailAddress>
+                <v10:NotificationEventsRequested>ON_TENDER</v10:NotificationEventsRequested>
+                <v10:Format>TEXT</v10:Format>
+                <v10:Localization>
+                   <v10:LanguageCode>EN</v10:LanguageCode>
+                </v10:Localization>
+             </v10:Recipients>
+          </v10:NotificationDetail>
+       </v10:SendNotificationsRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

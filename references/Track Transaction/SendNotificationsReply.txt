@@ -1,0 +1,36 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <SendNotificationsReply xmlns="http://fedex.com/ws/track/v10">
+         <HighestSeverity>ERROR</HighestSeverity>
+         <Notifications>
+            <Severity>ERROR</Severity>
+            <Source>trck</Source>
+            <Code>9040</Code>
+            <Message>This tracking number cannot be found. Please check the number or contact the sender.</Message>
+            <LocalizedMessage>This tracking number cannot be found. Please check the number or contact the sender.</LocalizedMessage>
+         </Notifications>
+         <Notifications>
+            <Severity>WARNING</Severity>
+            <Source>trck</Source>
+            <Code>30035</Code>
+            <Message>We are unable to provide notifications because either the package is too old or there is more than one package with the provided tracking number.</Message>
+            <LocalizedMessage>We are unable to provide notifications because either the package is too old or there is more than one package with the provided tracking number.</LocalizedMessage>
+         </Notifications>
+         <TransactionDetail>
+            <CustomerTransactionId>SendNotificationsRequest_v9</CustomerTransactionId>
+            <Localization>
+               <LanguageCode>EN</LanguageCode>
+            </Localization>
+         </TransactionDetail>
+         <Version>
+            <ServiceId>trck</ServiceId>
+            <Major>10</Major>
+            <Intermediate>0</Intermediate>
+            <Minor>0</Minor>
+         </Version>
+         <DuplicateWaybill>false</DuplicateWaybill>
+         <MoreDataAvailable>false</MoreDataAvailable>
+      </SendNotificationsReply>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope

@@ -1,0 +1,84 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v10="http://fedex.com/ws/track/v10">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <v10:SignatureProofOfDeliveryFaxRequest>
+         <v10:WebAuthenticationDetail>
+            <v10:UserCredential>
+               <v10:Key>Input Your Information</v10:Key>
+               <v10:Password>Input Your Information</v10:Password>
+            </v10:UserCredential>
+         </v10:WebAuthenticationDetail>
+         <v10:ClientDetail>
+            <v10:AccountNumber>Input Your Information</v10:AccountNumber>
+            <v10:MeterNumber>Input Your Information</v10:MeterNumber>
+            <v10:Localization>
+               <v10:LanguageCode>EN</v10:LanguageCode>
+               <v10:LocaleCode>EM</v10:LocaleCode>
+            </v10:Localization>
+         </v10:ClientDetail>
+         <v10:TransactionDetail>
+            <v10:CustomerTransactionId>SignatureProofOfDeliveryFaxRequest_v10</v10:CustomerTransactionId>
+            <v10:Localization>
+               <v10:LanguageCode>EN</v10:LanguageCode>
+               <v10:LocaleCode>EM</v10:LocaleCode>
+            </v10:Localization>
+         </v10:TransactionDetail>
+         <v10:Version>
+            <v10:ServiceId>trck</v10:ServiceId>
+            <v10:Major>10</v10:Major>
+            <v10:Intermediate>0</v10:Intermediate>
+            <v10:Minor>0</v10:Minor>
+         </v10:Version>
+         <v10:QualifiedTrackingNumber>
+            <v10:TrackingNumber>Input Your Information</v10:TrackingNumber>
+            <v10:ShipDate>2014-12-04</v10:ShipDate>
+            <v10:AccountNumber>Input Your Information</v10:AccountNumber>
+            <v10:Carrier>FDXE</v10:Carrier>
+            <v10:Destination>
+               <v10:StreetLines>Input Your Information</v10:StreetLines>
+               <v10:City>Texas</v10:City>
+               <v10:StateOrProvinceCode>TX</v10:StateOrProvinceCode>
+               <v10:PostalCode>73301</v10:PostalCode>
+               <v10:CountryCode>US</v10:CountryCode>
+            </v10:Destination>
+         </v10:QualifiedTrackingNumber>
+         <v10:AdditionalComments>comments</v10:AdditionalComments>
+         <v10:FaxSender>
+            <v10:Contact>
+               <v10:PersonName>Input Your Information</v10:PersonName>
+               <v10:Title>Input Your Information</v10:Title>
+               <v10:CompanyName>Input Your Information</v10:CompanyName>
+               <v10:PhoneNumber>Input Your Information</v10:PhoneNumber>
+               <v10:PhoneExtension>Input Your Information</v10:PhoneExtension>
+               <v10:FaxNumber>Input Your Information</v10:FaxNumber>
+               <v10:EMailAddress>Input Your Information</v10:EMailAddress>
+            </v10:Contact>
+            <v10:Address>
+               <v10:StreetLines>Input Your Information</v10:StreetLines>
+               <v10:City>Texas</v10:City>
+               <v10:StateOrProvinceCode>TX</v10:StateOrProvinceCode>
+               <v10:PostalCode>73301</v10:PostalCode>
+               <v10:CountryCode>US</v10:CountryCode>
+            </v10:Address>
+         </v10:FaxSender>
+         <v10:FaxRecipient>
+            <v10:Contact>
+               <v10:PersonName>Input Your Information</v10:PersonName>
+               <v10:Title>Input Your Information</v10:Title>
+               <v10:CompanyName>Input Your Information</v10:CompanyName>
+               <v10:PhoneNumber>Input Your Information</v10:PhoneNumber>
+               <v10:PhoneExtension>Input Your Information</v10:PhoneExtension>
+               <v10:FaxNumber>Input Your Information</v10:FaxNumber>
+               <v10:EMailAddress>Input Your Information</v10:EMailAddress>
+            </v10:Contact>
+            <v10:Address>
+               <v10:StreetLines>Input Your Information</v10:StreetLines>
+               <v10:City>Memphis</v10:City>
+               <v10:StateOrProvinceCode>TN</v10:StateOrProvinceCode>
+               <v10:PostalCode>39017</v10:PostalCode>
+               <v10:CountryCode>US</v10:CountryCode>
+            </v10:Address>
+         </v10:FaxRecipient>
+      </v10:SignatureProofOfDeliveryFaxRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

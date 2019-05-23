@@ -1,0 +1,72 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<SOAP-ENV:Header/>
+<SOAP-ENV:Body>
+<TrackReply xmlns="http://fedex.com/ws/track/v10">
+<HighestSeverity>SUCCESS</HighestSeverity>
+<Notifications>
+<Severity>SUCCESS</Severity>
+<Source>trck</Source>
+<Code>0</Code>
+<Message>Request was successfully processed.</Message>
+<LocalizedMessage>Request was successfully processed.</LocalizedMessage>
+</Notifications>
+<TransactionDetail>
+<CustomerTransactionId>Track By Number_v10</CustomerTransactionId>
+</TransactionDetail>
+<Version>
+<ServiceId>trck</ServiceId>
+<Major>10</Major>
+<Intermediate>0</Intermediate>
+<Minor>0</Minor>
+</Version>
+<CompletedTrackDetails>
+<HighestSeverity>SUCCESS</HighestSeverity>
+<Notifications>
+<Severity>SUCCESS</Severity>
+<Source>trck</Source>
+<Code>0</Code>
+<Message>Request was successfully processed.</Message>
+<LocalizedMessage>Request was successfully processed.</LocalizedMessage>
+</Notifications>
+<DuplicateWaybill>false</DuplicateWaybill>
+<MoreData>false</MoreData>
+<TrackDetailsCount>0</TrackDetailsCount>
+<TrackDetails>
+<Notification>
+<Severity>FAILURE</Severity>
+<Source>trck</Source>
+<Code>9080</Code>
+<Message>Sorry, we are unable to process your tracking request.  Please contact Customer Service at 1.800.Go.FedEx(R) 800.463.3339.</Message>
+<LocalizedMessage>Sorry, we are unable to process your tracking request.  Please contact Customer Service at 1.800.Go.FedEx(R) 800.463.3339.</LocalizedMessage>
+</Notification>
+<TrackingNumber>Input Your Information</TrackingNumber>
+<StatusDetail>
+<Location>
+<Residential>false</Residential>
+</Location>
+</StatusDetail>
+<PackageSequenceNumber>0</PackageSequenceNumber>
+<PackageCount>0</PackageCount>
+<DeliveryAttempts>0</DeliveryAttempts>
+<TotalUniqueAddressCountInConsolidation>0</TotalUniqueAddressCountInConsolidation>
+<DeliveryOptionEligibilityDetails>
+<Option>INDIRECT_SIGNATURE_RELEASE</Option>
+<Eligibility>INELIGIBLE</Eligibility>
+</DeliveryOptionEligibilityDetails>
+<DeliveryOptionEligibilityDetails>
+<Option>REDIRECT_TO_HOLD_AT_LOCATION</Option>
+<Eligibility>INELIGIBLE</Eligibility>
+</DeliveryOptionEligibilityDetails>
+<DeliveryOptionEligibilityDetails>
+<Option>REROUTE</Option>
+<Eligibility>INELIGIBLE</Eligibility>
+</DeliveryOptionEligibilityDetails>
+<DeliveryOptionEligibilityDetails>
+<Option>RESCHEDULE</Option>
+<Eligibility>INELIGIBLE</Eligibility>
+</DeliveryOptionEligibilityDetails>
+</TrackDetails>
+</CompletedTrackDetails>
+</TrackReply>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
