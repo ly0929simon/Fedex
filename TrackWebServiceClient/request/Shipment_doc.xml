@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<req:ShipmentRequest 
+	schemaVersion="6.2" 
+	xmlns:req="http://www.dhl.com" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.dhl.com ship-val-global-req-6.2.xsd"
+>
+	<Request>
+		<ServiceHeader>
+			<MessageTime>2002-08-20T11:28:56.000-08:00</MessageTime>
+			<MessageReference></MessageReference>
+			<SiteID>CustomerSiteID</SiteID>
+			<Password>CustomerPassword</Password>
+		</ServiceHeader>
+		<MetaData>
+			<SoftwareName></SoftwareName>
+			<SoftwareVersion></SoftwareVersion>
+		</MetaData>
+	</Request>
+	<RegionCode>AP</RegionCode>
+	<NewShipper>Y</NewShipper>
+	<LanguageCode>en</LanguageCode>
+	<PiecesEnabled>Y</PiecesEnabled>
+	<Billing>
+		<ShipperAccountNumber>600000000</ShipperAccountNumber>
+		<ShippingPaymentType>S</ShippingPaymentType>
+		<BillingAccountNumber>600000000</BillingAccountNumber>
+		<!-- <DutyPaymentType>R</DutyPaymentType> -->
+	</Billing>
+	<Consignee>
+		<CompanyName>multity docimage invoice</CompanyName>
+		<AddressLine>19th Floor, Plaza IBM</AddressLine>
+		<AddressLine>No. 8, First Avenue,</AddressLine>
+		<AddressLine>Persiaran Bandar Utama</AddressLine>
+		<City>Petaling Jaya</City>
+		<PostalCode>47800</PostalCode>
+		<CountryCode>MY</CountryCode>
+		<CountryName>Malaysia</CountryName>
+		<Contact>
+			<PersonName>Ms Ellie White</PersonName>
+			<PhoneNumber>11234325423</PhoneNumber>
+			<PhoneExtension>45232</PhoneExtension>
+			<FaxNumber>11234325423</FaxNumber>
+			<Telex>454586</Telex>
+			<Email>test@dhl.com</Email>
+		</Contact>
+	</Consignee>
+	<Reference>
+		<ReferenceID>ReferenceID</ReferenceID>
+		<!--<ReferenceType></ReferenceType>-->
+	</Reference>
+	<ShipmentDetails>
+		<NumberOfPieces>1</NumberOfPieces>
+		<Pieces>
+			<Piece>
+				<PieceID>1</PieceID>
+				<PackageType>EE</PackageType>
+				<Weight>0.5</Weight>
+ 			</Piece>
+		</Pieces>
+		<Weight>0.5</Weight>
+		<WeightUnit>K</WeightUnit>
+		<GlobalProductCode>D</GlobalProductCode>
+		<LocalProductCode>D</LocalProductCode>
+		<Date>2018-01-10</Date>
+		<Contents>For testing only. Please do not ship</Contents>
+		<DoorTo>DD</DoorTo>
+		<DimensionUnit>C</DimensionUnit>
+		<!-- <InsuredAmount>10.00</InsuredAmount> -->
+		<PackageType>EE</PackageType>
+		<IsDutiable>N</IsDutiable>
+		<CurrencyCode>USD</CurrencyCode>
+	</ShipmentDetails>
+	<Shipper>
+		<ShipperID>600000000</ShipperID>
+		<CompanyName>Dentop International Limited</CompanyName>
+		<AddressLine>Unit 203, 55-07,</AddressLine>
+		<AddressLine>Bio-Informatics Centre</AddressLine>
+		<City>BEIJING</City>
+		<DivisionCode>BJ</DivisionCode>
+		<PostalCode>100076</PostalCode>
+		<CountryCode>CN</CountryCode>
+		<CountryName>China</CountryName>
+		<Contact>
+			<PersonName>Shipment_doc</PersonName>
+			<PhoneNumber>13888888888</PhoneNumber>
+			<PhoneExtension>6666</PhoneExtension>
+			<FaxNumber>17456356365</FaxNumber>
+			<Telex>74558</Telex>
+			<Email>aaa@test.com</Email>
+		</Contact>
+	</Shipper>
+	<SpecialService>
+		<SpecialServiceType>IB</SpecialServiceType>
+	</SpecialService>
+	<EProcShip>N</EProcShip>
+
+	<LabelImageFormat>PDF</LabelImageFormat>
+	<!--LabelImageFormat>EPL2</LabelImageFormat-->
+	<RequestArchiveDoc>Y</RequestArchiveDoc>
+	<NumberOfArchiveDoc>1</NumberOfArchiveDoc>
+	<Label>
+		<HideAccount>N</HideAccount>
+		<LabelTemplate>8X4_PDF</LabelTemplate>
+		<!--Logo>N</Logo-->
+		<!--Resolution>200</Resolution-->
+	</Label>
+</req:ShipmentRequest>

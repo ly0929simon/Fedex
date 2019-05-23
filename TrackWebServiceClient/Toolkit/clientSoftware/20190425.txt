@@ -1,0 +1,32 @@
+
+Thu Apr 25 18:09:10 IST 2019
+Filename : Response.xml
+Status : Success
+Message : Successfully Decoded Label Image and moved to C:\Users\kumac\Pictures\DELL CR\Temp\Toolkit\clientSoftware\SOPLabel\..\TransformXMLtoPDF\ProcessedXMLS
+Thu Apr 25 18:12:46 IST 2019
+Filename : Response.xml
+Status : Failure
+Message : Error in parsing request XML:Error:
+                    Element type "AdditionalInformation" must
+                    be declared. at line 1, column 2893
+Thu Apr 25 18:13:22 IST 2019
+Filename : Response.xml
+Status : Failure
+Message : Error in parsing request XML:Error:
+                    Datatype error: In element
+                    'LabelTemplateType' : Value
+                    '8X4_CustBarCode_AdditionalInfo_PDF' with
+                    length '34' exceeds maximum length facet
+                    of '30'.. at line 1, column 718
+Thu Apr 25 18:14:20 IST 2019
+Filename : Response.xml
+Status : Success
+Message : Successfully Decoded Label Image and moved to C:\Users\kumac\Pictures\DELL CR\Temp\Toolkit\clientSoftware\SOPLabel\..\TransformXMLtoPDF\ProcessedXMLS
+Thu Apr 25 18:14:53 IST 2019
+Filename : Response.xml
+Status : Failure
+Message : Unable to create file: exception is C:\Users\kumac\Pictures\DELL CR\Temp\Toolkit\clientSoftware\SOPLabel\..\TransformXMLtoPDF\PDFReports\0011933725.pdf (The process cannot access the file because it is being used by another process)
+Thu Apr 25 18:15:04 IST 2019
+Filename : Response.xml
+Status : Success
+Message : Successfully Decoded Label Image and moved to C:\Users\kumac\Pictures\DELL CR\Temp\Toolkit\clientSoftware\SOPLabel\..\TransformXMLtoPDF\ProcessedXMLS

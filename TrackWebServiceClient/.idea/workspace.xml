@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfb28a42-1f6e-4a93-bdb1-601b6f32a6ae" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1385">
+              <folding>
+                <element signature="e#0#3280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceHeaderRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/ServiceHeaderRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+              <folding>
+                <element signature="e#0#3959#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceHeaderResponse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/ServiceHeaderResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#3306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Services.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/Services.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-342">
+              <folding>
+                <element signature="e#0#2210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shipment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/Shipment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="213" column="35" lean-forward="true" selection-start-line="213" selection-start-column="35" selection-end-line="213" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#32223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OriginServiceArea.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/classes/com/dhl/xmlpi/shipVal/models/OriginServiceArea.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#1366#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShipmentInfo.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/classes/com/dhl/xmlpi/shipVal/models/ShipmentInfo.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="76" column="48" lean-forward="true" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#4393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShipmentInfo.class" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel_Jasper/classes/com/dhl/datatypes/ShipmentInfo.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShipmentInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel_Jasper/src/com/dhl/datatypes/ShipmentInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#9984#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShipmentInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/shipVal/models/ShipmentInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1026">
+              <folding>
+                <element signature="e#0#10739#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DlvyNotificationFlag</find>
+      <find>Shipper</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/git_work/Fedex-Tracking-API" value="PREVIEW" />
+        <entry key="E:/git_work/PayPal-Java-SDK" value="PREVIEW" />
+        <entry key="E:/work_eclipse/PayPal-Java-SDK-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="clientSoftware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="clientSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPLabel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="clientSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPLabel_Jasper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="clientSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPLabel_Jasper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="clientSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPLabel_Jasper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="clientSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPLabel_Jasper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dhl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrackWebServiceClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrackWebServiceClient" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="clientSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPLabel_Jasper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dhl" type="462c0819:PsiDirectoryNode" />
+              <item name="datatypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AdvancedConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\simon\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfb28a42-1f6e-4a93-bdb1-601b6f32a6ae" name="Default" comment="" />
+      <created>1557282058709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557282058709</updated>
+      <workItem from="1557282060700" duration="2382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2382000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="RestServices" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="5" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="bottom" id="JRebel Executor" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="5" weight="0.32995737" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29211086" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/DHLClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1537">
+          <caret line="416" column="8" lean-forward="true" selection-start-line="416" selection-start-column="8" selection-end-line="416" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-473">
+          <folding>
+            <element signature="e#0#1980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1385">
+          <folding>
+            <element signature="e#0#3280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/ServiceHeaderRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+          <folding>
+            <element signature="e#0#3959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/ServiceHeaderResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/Services.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <folding>
+            <element signature="e#0#2210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/labelservice/model/response/Shipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="213" column="35" lean-forward="true" selection-start-line="213" selection-start-column="35" selection-end-line="213" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/classes/com/dhl/xmlpi/shipVal/models/OriginServiceArea.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#1366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel_Jasper/src/com/dhl/datatypes/ShipmentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/src/com/dhl/xmlpi/shipVal/models/ShipmentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026">
+          <folding>
+            <element signature="e#0#10739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel/classes/com/dhl/xmlpi/shipVal/models/ShipmentInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="76" column="48" lean-forward="true" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#4393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/clientSoftware/SOPLabel_Jasper/classes/com/dhl/datatypes/ShipmentInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

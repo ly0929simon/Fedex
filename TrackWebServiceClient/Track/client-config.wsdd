@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployment name="defaultClientConfig"
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+    <handler name="log"
+      type="java:org.apache.axis.handlers.LogHandler">
+      <parameter name="LogHandler.fileName" value="axis.log" />
+    </handler>
+
+    <globalConfiguration>
+      <parameter name="disablePrettyXML" value="false" />
+      <requestFlow>
+         <handler type="log" />
+      </requestFlow>
+      <responseFlow>
+         <handler type="log" />
+      </responseFlow>
+    </globalConfiguration>
+
+    <!-- Override the default serializer class for Calendar.
+         This is to force the serialization of Calendar objects to the format:
+         "yyyy-MM-dd'T'HH:mm:ss.SSS(+|-)HH:mm"
+    -->
+    <typeMapping qname="xs:dateTime" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+       type="java:java.util.Calendar"
+       serializer="com.fedex.soapsamples.util.CustomCalendarSerializerFactory"
+       encodingStyle=""/>
+
+    <transport name="http" pivot="java:org.apache.axis.transport.http.HTTPSender" />
+    <transport name="local" pivot="java:org.apache.axis.transport.local.LocalSender" />
+    <transport name="java" pivot="java:org.apache.axis.transport.java.JavaSender" />
+</deployment>

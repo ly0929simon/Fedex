@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<req:ShipmentRequest xmlns:req="http://www.dhl.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com ship-val-global-req.xsd" schemaVersion="6.2">
+	<Request>
+		<ServiceHeader>
+			<MessageTime>2018-09-25T19:32:46</MessageTime>
+			<MessageReference>----B10399278-20180925-70366</MessageReference>
+			<SiteID>xmlpidev</SiteID>
+			<Password>xmlpidev</Password>
+		</ServiceHeader>
+		<MetaData>
+			<SoftwareName>3PV</SoftwareName>
+			<SoftwareVersion>6.2</SoftwareVersion>
+		</MetaData>
+	</Request>
+	<RegionCode>EU</RegionCode>
+	<NewShipper>N</NewShipper>
+	<LanguageCode>EN</LanguageCode>
+	<PiecesEnabled>Y</PiecesEnabled>
+	<Billing>
+		<ShipperAccountNumber>130000279</ShipperAccountNumber>
+		<ShippingPaymentType>S</ShippingPaymentType>
+		<BillingAccountNumber>130000279</BillingAccountNumber>
+		<DutyPaymentType>R</DutyPaymentType>
+	</Billing>
+	<Consignee>
+		<CompanyName>Life Centre Company</CompanyName>
+		<AddressLine>Central 1</AddressLine>
+		<AddressLine>Changa Business Park</AddressLine>		
+		<AddressLine>Address Line3</AddressLine>		
+		<City>Beijing</City>
+		<Division>cn</Division>
+		<PostalCode>100085</PostalCode>
+		<CountryCode>CN</CountryCode>
+		<CountryName>China</CountryName>
+		<Contact>
+			<PersonName>raobeert bere</PersonName>
+			<PhoneNumber>11234-325423</PhoneNumber>
+		</Contact>
+	</Consignee>
+	<Dutiable>
+		<DeclaredValue>300.00</DeclaredValue>
+		<DeclaredCurrency>GBP</DeclaredCurrency>
+		<TermsOfTrade>DAP</TermsOfTrade>
+		<Filing />
+	</Dutiable>
+	<Reference>
+		<ReferenceID>ME92A0046054</ReferenceID>
+		<ReferenceType>SH</ReferenceType>
+	</Reference>
+	<ShipmentDetails>
+		<NumberOfPieces>2</NumberOfPieces>
+		<Pieces>
+         <Piece>
+				<PieceID>3</PieceID>
+				<PackageType>EE</PackageType>
+				<Weight>0.5</Weight>
+				<Width>30</Width>
+				<Height>40</Height>
+				<Depth>20</Depth>
+				<AdditionalInformation>
+					<CustomerBarcodes>
+						<BarcodeType>128</BarcodeType>
+						<BarcodeContent>TK957</BarcodeContent>
+						<TextBelowBarcode>TK957</TextBelowBarcode>
+					</CustomerBarcodes>
+					<CustomerBarcodes>
+						<BarcodeType>128</BarcodeType>
+						<BarcodeContent>873837851</BarcodeContent>
+						<TextBelowBarcode>873837851</TextBelowBarcode>
+					</CustomerBarcodes>
+					<CustomerAdditionalInformation>
+						<Caption>ORDER_TYPE</Caption>
+						<Description>SALES</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>QTY_VALUE</Caption>
+						<Description>50</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>COD_CODE</Caption>
+						<Description>CN</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>CARTON_VAL</Caption>
+						<Description>07 of 07</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>CUSTOMER_DC_LOC</Caption>
+						<Description>SG Regional</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>CARTON_DIMENSION</Caption>
+						<Description>26(L) 20(W) 0.5(H)</Description>
+					</CustomerAdditionalInformation>
+					<CustomerDescription>abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd</CustomerDescription>
+					</AdditionalInformation>
+			</Piece>
+			<Piece>
+				<PieceID>2</PieceID>
+				<PackageType>EE</PackageType>
+				<Weight>2.0</Weight>
+				<Width>60</Width>
+				<Height>70</Height>
+				<Depth>50</Depth>
+				<AdditionalInformation>
+					<CustomerBarcodes>
+						<BarcodeType>128</BarcodeType>
+						<BarcodeContent>TK957</BarcodeContent>
+						<TextBelowBarcode>TK957</TextBelowBarcode>
+					</CustomerBarcodes>
+					<CustomerBarcodes>
+						<BarcodeType>128</BarcodeType>
+						<BarcodeContent>873837851</BarcodeContent>
+						<TextBelowBarcode>873837851</TextBelowBarcode>
+					</CustomerBarcodes>
+					<CustomerAdditionalInformation>
+						<Caption>ITEM_NUMBER</Caption>
+						<Description>ABC123</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>QTY</Caption>
+						<Description>50</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>COD</Caption>
+						<Description>KB</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>CASE</Caption>
+						<Description>07 of 07</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>CUSTOMER_DC_LOC</Caption>
+						<Description>SG Regional</Description>
+					</CustomerAdditionalInformation>
+					<CustomerAdditionalInformation>
+						<Caption>CARTON_DIMENSION</Caption>
+						<Description>26(L) 20(W) 0.5(H)</Description>
+					</CustomerAdditionalInformation>
+					<CustomerDescription>abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd </CustomerDescription>
+				</AdditionalInformation>
+			</Piece>
+      </Pieces>
+		<Weight>99.9</Weight>
+		<WeightUnit>L</WeightUnit>
+		<GlobalProductCode>P</GlobalProductCode>
+		<LocalProductCode>P</LocalProductCode>
+		<Date>2019-04-15</Date>
+		<Contents>MTSW-118-22-S-D-390</Contents>
+		<DoorTo>DD</DoorTo>
+		<DimensionUnit>I</DimensionUnit>
+		<PackageType>CP</PackageType>
+		<IsDutiable>Y</IsDutiable>
+		<CurrencyCode>USD</CurrencyCode>
+	</ShipmentDetails>
+	<Shipper>
+			<ShipperID>130000279</ShipperID>
+		<CompanyName>University of QA</CompanyName>
+		<RegisteredAccount>130000279</RegisteredAccount>
+		<AddressLine>Senate House</AddressLine>
+		<AddressLine>Malet Street</AddressLine>
+		<AddressLine>Address Line3</AddressLine>
+		<City>London</City>
+		<Division>wc</Division>
+		<PostalCode>WC1E 7HU</PostalCode>
+		<CountryCode>GB</CountryCode>
+		<CountryName>United Kingdom</CountryName>
+		<Contact>
+			<PersonName>enquiry sing</PersonName>
+			<PhoneNumber>11234-325423</PhoneNumber>
+		</Contact>
+	</Shipper>
+	<LabelImageFormat>PDF</LabelImageFormat>
+	 <Label>
+        <LabelTemplate>8X4_CustBarCode_AdditionalInfo_PDF</LabelTemplate>
+    </Label>
+</req:ShipmentRequest>
+<!-- ServiceInvocationId:20180926013250_42d7_f4bb2b0f-1b16-4bab-8a85-e8392fc5e628 -->

@@ -1,0 +1,200 @@
+<res:ShipmentResponse xsi:schemaLocation="http://www.dhl.com ship-val-res.xsd" xmlns:res="http://www.dhl.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <Response>
+      <ServiceHeader>
+         <MessageTime>2019-04-12T14:59:33.004+05:30</MessageTime>
+         <MessageReference>Shipmnt_AP_CN_lblimg_62_sch_Reg</MessageReference>
+         <SiteID>xmlpidev</SiteID>
+      </ServiceHeader>
+   </Response>
+   <RegionCode>AP</RegionCode>
+   <Note>
+      <ActionNote>Success</ActionNote>
+   </Note>
+   <AirwayBillNumber>0011933725</AirwayBillNumber>
+   <BillingCode>DSA</BillingCode>
+   <CurrencyCode>USD</CurrencyCode>
+   <CourierMessage>Empty Box-Testing</CourierMessage>
+   <DestinationServiceArea>
+      <ServiceAreaCode>TPE</ServiceAreaCode>
+      <FacilityCode>WSC</FacilityCode>
+      <InboundSortCode>.</InboundSortCode>
+   </DestinationServiceArea>
+   <OriginServiceArea>
+      <ServiceAreaCode>SIN</ServiceAreaCode>
+      <FacilityCode>ESC</FacilityCode>
+      <OutboundSortCode>.</OutboundSortCode>
+   </OriginServiceArea>
+   <PackageCharge>33.290</PackageCharge>
+   <Rated>Y</Rated>
+   <ShippingCharge>97.600</ShippingCharge>
+   <InsuredAmount>1.00</InsuredAmount>
+   <WeightUnit>K</WeightUnit>
+   <ChargeableWeight>1.0</ChargeableWeight>
+   <DimensionalWeight>2.6</DimensionalWeight>
+   <CountryCode>SG</CountryCode>
+   <Barcodes>
+      <AWBBarCode>iVBORw0KGgoAAAANSUhEUgAAAWgAAABeAQMAAAA0fxySAAAABlBMVEX///8AAABVwtN+AAAAYElEQVR42mNkYGBItL2t8E78xO+2Tb7Grbd5Hxp57D1pXt3gN/8Bw+Zzmzx2+G18qPD2c64UAwMTAylgVPWo6lHVo6pHVY+qHlU9qnpU9ajqUdWjqkdVj6oeVT2qml6qARe2FbyKHzP+AAAAAElFTkSuQmCC</AWBBarCode>
+      <OriginDestnBarcode>iVBORw0KGgoAAAANSUhEUgAAARoAAABeAQMAAADGw0k3AAAABlBMVEX///8AAABVwtN+AAAAUElEQVR42mNkYGBItL2t4DvpnTCfEIOvhYdwxg6/jeeNPHaw3ua9bXubvYGBgYmBCDCqaFTRqKJRRaOKRhWNKhpVNKpoVNGoolFFo4pIVwQALWUMvHrCig8AAAAASUVORK5CYII=</OriginDestnBarcode>
+      <DHLRoutingBarCode>iVBORw0KGgoAAAANSUhEUgAAAcIAAABeAQMAAACKBYaKAAAABlBMVEX///8AAABVwtN+AAAAb0lEQVR42u3LIQ6DMABG4R8S6tBtFdfZGXCooaohmEo8ZpkgcLNmjiOQCeAMOJL31DNfJqkvh2TD+jnS2P18a4PLfDRN7sxL32JKRdQ/LLJRqrdqf8+bvzbX3ZBIJBKJRCKRSCQSiUQikUgk8mnyBKlzFLxwATXnAAAAAElFTkSuQmCC</DHLRoutingBarCode>
+   </Barcodes>
+   <Piece>1</Piece>
+   <Contents>Empty Box-Testing</Contents>
+   <Reference>
+      <ReferenceID>538505858</ReferenceID>
+      <ReferenceType>CU</ReferenceType>
+   </Reference>
+   <Consignee>
+      <CompanyName>DHL TAIWAN CORP.</CompanyName>
+      <AddressLine>No. 237, Chiau He Rd</AddressLine>
+      <AddressLine>Chung He City,</AddressLine>
+      <AddressLine>New Taipei City</AddressLine>
+      <City>JUNGHE</City>
+      <PostalCode>23562</PostalCode>
+      <CountryCode>TW</CountryCode>
+      <CountryName>Taiwan</CountryName>
+      <Contact>
+         <PersonName>Supervisor</PersonName>
+         <PhoneNumber>886-2-2503 8378</PhoneNumber>
+         <FaxNumber>123</FaxNumber>
+         <Telex>123</Telex>
+         <Email>test@dhl.com</Email>
+      </Contact>
+   </Consignee>
+   <Shipper>
+      <ShipperID>610000573</ShipperID>
+      <CompanyName>DHL EXPRESS (SINGAPORE) PTE LTD</CompanyName>
+      <AddressLine>East Service Centre</AddressLine>
+      <AddressLine>1, Tai Seng Drive</AddressLine>
+      <AddressLine>DHL Air Express Centre</AddressLine>
+      <City>Singapore</City>
+      <PostalCode>535215</PostalCode>
+      <CountryCode>SG</CountryCode>
+      <CountryName>Singapore</CountryName>
+      <Contact>
+         <PersonName>santa santa</PersonName>
+         <PhoneNumber>68806416</PhoneNumber>
+         <FaxNumber>123</FaxNumber>
+         <Telex>123</Telex>
+         <Email>cheeheng.chua@dhl.com</Email>
+      </Contact>
+   </Shipper>
+   <CustomerID>131297</CustomerID>
+   <ShipmentDate>2019-04-12</ShipmentDate>
+   <GlobalProductCode>P</GlobalProductCode>
+   <SpecialService>
+      <SpecialServiceType>WY</SpecialServiceType>
+      <SpecialServiceDesc>Paperless Trade</SpecialServiceDesc>
+   </SpecialService>
+   <SpecialService>
+      <SpecialServiceType>NN</SpecialServiceType>
+      <SpecialServiceDesc>Neutral Delivery</SpecialServiceDesc>
+   </SpecialService>
+   <SpecialService>
+      <SpecialServiceType>HV</SpecialServiceType>
+      <SpecialServiceDesc>Lithium Ion PI967 Section II</SpecialServiceDesc>
+   </SpecialService>
+   <Billing>
+      <ShipperAccountNumber>610000573</ShipperAccountNumber>
+      <ShippingPaymentType>S</ShippingPaymentType>
+      <DutyPaymentType>R</DutyPaymentType>
+   </Billing>
+   <Dutiable>
+      <DeclaredValue>10.00</DeclaredValue>
+      <DeclaredCurrency>USD</DeclaredCurrency>
+      <ShipperEIN>ShipperEIN</ShipperEIN>
+   </Dutiable>
+   <DHLRoutingCode>TW23562+48000001</DHLRoutingCode>
+   <DHLRoutingDataId>2L</DHLRoutingDataId>
+   <ProductContentCode>WPX</ProductContentCode>
+   <ProductShortName>EXPRESS WORLDWIDE</ProductShortName>
+   <InternalServiceCode>C</InternalServiceCode>
+   <InternalServiceCode>NDS</InternalServiceCode>
+   <InternalServiceCode>PLT</InternalServiceCode>
+   <InternalServiceCode>ELI</InternalServiceCode>
+   <DeliveryDateCode/>
+   <DeliveryTimeCode/>
+   <Pieces>
+      <Piece>
+         <PieceNumber>1</PieceNumber>
+         <Depth>20.00</Depth>
+         <Width>26.00</Width>
+         <Height>25.00</Height>
+         <Weight>0.50</Weight>
+         <PackageType>EE</PackageType>
+         <DimWeight>2.6</DimWeight>
+         <DataIdentifier>J</DataIdentifier>
+         <LicensePlate>JD013036538177195290</LicensePlate>
+         <LicensePlateBarCode>iVBORw0KGgoAAAANSUhEUgAAAZYAAABeAQMAAAA6+qC4AAAABlBMVEX///8AAABVwtN+AAAAaUlEQVR42u3LIRJAQBiA0Z+AoihGMeN4KskIu9oWRTRjhuAs2xxAWVHSJc6gCd/rzxORJm6nw9SqsDrUyRnM6b5YnWnp76iStXWdKrbkGvOndIMR8eU7DofD4XA4HA6Hw+FwOBwO50/nBd+9FrwZIhyOAAAAAElFTkSuQmCC</LicensePlateBarCode>
+         <AdditionalInformation>
+            <CustomerBarcodes>
+               <BarcodeType>128</BarcodeType>
+               <BarcodeContent>TK123</BarcodeContent>
+               <TextBelowBarcode>TK123</TextBelowBarcode>
+            </CustomerBarcodes>
+            <CustomerBarcodes>
+               <BarcodeType>128</BarcodeType>
+               <BarcodeContent>538505858</BarcodeContent>
+               <TextBelowBarcode>538505858</TextBelowBarcode>
+            </CustomerBarcodes>
+            <CustomerAdditionalInformation>
+               <Caption>Order Type</Caption>
+               <Description>Sales</Description>
+            </CustomerAdditionalInformation>
+            <CustomerAdditionalInformation>
+               <Caption>Qty</Caption>
+               <Description>1</Description>
+            </CustomerAdditionalInformation>
+            <CustomerAdditionalInformation>
+               <Caption>COO</Caption>
+               <Description>SG</Description>
+            </CustomerAdditionalInformation>
+            <CustomerAdditionalInformation>
+               <Caption>Carton</Caption>
+               <Description>01 of 01</Description>
+            </CustomerAdditionalInformation>
+            <CustomerAdditionalInformation>
+               <Caption>DC Location</Caption>
+               <Description>SG Regional</Description>
+            </CustomerAdditionalInformation>
+            <CustomerAdditionalInformation>
+               <Caption>Dimension</Caption>
+               <Description>26(L) 20(W) 25(H)</Description>
+            </CustomerAdditionalInformation>
+            <CustomerDescription>Testing 7 - PI967</CustomerDescription>
+         </AdditionalInformation>
+      </Piece>
+   </Pieces>
+   <PLTStatus>A</PLTStatus>
+   <QtdSInAdCur>
+      <CurrencyCode>SGD</CurrencyCode>
+      <CurrencyRoleTypeCode>BILLC</CurrencyRoleTypeCode>
+      <PackageCharge>33.290</PackageCharge>
+      <ShippingCharge>97.600</ShippingCharge>
+   </QtdSInAdCur>
+   <QtdSInAdCur>
+      <CurrencyCode>SGD</CurrencyCode>
+      <CurrencyRoleTypeCode>PULCL</CurrencyRoleTypeCode>
+      <PackageCharge>33.290</PackageCharge>
+      <ShippingCharge>97.600</ShippingCharge>
+   </QtdSInAdCur>
+   <QtdSInAdCur>
+      <CurrencyCode>EUR</CurrencyCode>
+      <CurrencyRoleTypeCode>BASEC</CurrencyRoleTypeCode>
+      <PackageCharge>21.530</PackageCharge>
+      <ShippingCharge>63.120</ShippingCharge>
+   </QtdSInAdCur>
+   <LabelImage>
+      <OutputFormat>PDF</OutputFormat>
+      <OutputImage>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b2JqCjcgMCBvYmoKPDwvQ29udGVudHMgOCAwIFIvVHlwZS9QYWdlL1Jlc291cmNlczw8L1Byb2NTZXRbL1BERi9UZXh0L0ltYWdlQi9JbWFnZUMvSW1hZ2VJXS9YT2JqZWN0PDwvWGYxIDkgMCBSPj4+Pi9QYXJlbnQgNiAwIFIvTWVkaWFCb3hbMCAwIDI4MC42MyA1NjYuOTNdPj4KZW5kb2JqCjYgMCBvYmoKPDwvS2lkc1sxIDAgUiA3IDAgUl0vVHlwZS9QYWdlcy9Db3VudCAyL0lUWFQoMi4xLjcpPj4KZW5kb2JqCjEyIDAgb2JqCjw8L1R5cGUvQ2F0YWxvZy9QYWdlcyA2IDAgUj4+CmVuZG9iagoxMyAwIG9iago8PC9Nb2REYXRlKEQ6MjAxOTA0MTIwOTI5MjlaKS9DcmVhdGlvbkRhdGUoRDoyMDE5MDQxMjA5MjkyOVopL1Byb2R1Y2VyKGlUZXh0IDIuMS43IGJ5IDFUM1hUKT4+CmVuZG9iagp4cmVmCjAgMTQKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDA1OTMzIDAwMDAwIG4gCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDMxMyAwMDAwMCBuIAowMDAwMDAwMTMyIDAwMDAwIG4gCjAwMDAwMDAyMjUgMDAwMDAgbiAKMDAwMDAxMDA2NiAwMDAwMCBuIAowMDAwMDA5OTA0IDAwMDAwIG4gCjAwMDAwMDYwOTUgMDAwMDAgbiAKMDAwMDAwNjM5NSAwMDAwMCBuIAowMDAwMDA2MjEyIDAwMDAwIG4gCjAwMDAwMDYzMDYgMDAwMDAgbiAKMDAwMDAxMDEzNSAwMDAwMCBuIAowMDAwMDEwMTgxIDAwMDAwIG4gCnRyYWlsZXIKPDwvSW5mbyAxMyAwIFIvSUQgWzxjZGQ4Y2I0Yjc2YmVjZjQzZjIxYWI1ZjA4OTk4ZWFiYT48ZjQ5ZDZlMjNhZWJjYjMxYzBjYTJlMDY0MWEzMmUyYTA+XS9Sb290IDEyIDAgUi9TaXplIDE0Pj4Kc3RhcnR4cmVmCjEwMjkyCiUlRU9GCg==</OutputImage>
+   </LabelImage>
+   <DGs>
+      <DG>
+         <DG_ContentID>967</DG_ContentID>
+         <DG_LabelDesc>PI967 LITHIUM ION BATTERIES IN COMPLIANCE WITH SECTION II</DG_LabelDesc>
+      </DG>
+   </DGs>
+   <Label>
+      <LabelTemplate>8X4_CustBarCode_AdditionalInfo_PDF</LabelTemplate>
+   </Label>
+</res:ShipmentResponse>
+<!--ServiceInvocationId:20190412145923_2f87_16bddf63-2f18-4207-8985-fa429e074026-->
